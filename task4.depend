@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1606238130 source:c:\users\Надя\desktop\inf\task4\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1609204347 source:c:\users\79217\desktop\Инфа\task4-main\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

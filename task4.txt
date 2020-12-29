@@ -1,0 +1,4 @@
+    df     dfgdfg      df    asd    df
+Удалим последнее слово:          dfgdfg          asd    
+Без пробелов: dfgdfg asd
+Удалим последнюю букву: dfgdf as
